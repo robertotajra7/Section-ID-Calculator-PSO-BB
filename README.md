@@ -23,4 +23,4 @@ Se você deseja modificar o código, precisará do Python instalado:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/robertotajra7/Section-ID-Calculator-PSO-BB](https://github.com/robertotajra7/Section-ID-Calculator-PSO-BB)
