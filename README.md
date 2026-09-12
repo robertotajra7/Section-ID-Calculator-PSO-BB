@@ -21,6 +21,5 @@ Não precisa ter o Python instalado!
 ## 💻 Como Rodar o Código-Fonte
 Se você deseja modificar o código, precisará do Python instalado:
 
-1. Clone o repositório:
    ```bash
    git clone https://github.com/robertotajra7/Section-ID-Calculator-PSO-BB.git
